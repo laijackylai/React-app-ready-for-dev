@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.npmjs.com/package/barebones-react-webpack-babel-eslint-prettier-husky-project">
+    <img src="https://img.shields.io/badge/npm-v1.0.0-red" alt="version" />
+  </a>
+</p>
+
 # Barebones functional React project
 
 This is a minimal setup for a React project running with Webpack, Babel, ESLint, Prettier, pre-commit formatting, environment variables support.
