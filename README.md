@@ -1,4 +1,4 @@
-# Minimal React Webpack Babel ESLint Prettier Setup
+# Barebones functional React project
 
 This is a minimal setup for a React project running with Webpack, Babel, ESLint, Prettier, pre-commit formatting, environment variables support.
 

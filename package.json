@@ -1,5 +1,5 @@
 {
-  "name": "minimal-react-webpack-babel-eslint-prettier-setup",
+  "name": "barebones-react-webpack-babel-eslint-prettier-husky-project",
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
@@ -11,7 +11,7 @@
     "format": "prettier-eslint --eslint-config-path ./.eslintrc.js --write '**/*.js'",
     "validate": "npm ls",
     "prepare": "husky install",
-    "postinstall": "husky install",
+    "_postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
   },
