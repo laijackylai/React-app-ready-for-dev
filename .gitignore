@@ -3,6 +3,7 @@ node_modules
 
 # production
 dist
+build
 
 # mac system files
 .DS_Store
