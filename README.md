@@ -12,4 +12,4 @@ Create a .env file to prevent warning
 
 Open your browser and navigate to:
 
-   http://localhost:8080/
+   http://localhost:3000/
