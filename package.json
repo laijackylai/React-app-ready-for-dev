@@ -1,6 +1,6 @@
 {
   "name": "barebones-react-webpack-babel-eslint-prettier-husky-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "license": "MIT",
   "author": "Lai Hong Kit Jacky",
@@ -57,5 +57,20 @@
     "lint",
     "validate",
     "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laijackylai/React-app-ready-for-dev.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "barebones",
+    "react-dom",
+    "webpack",
+    "babel",
+    "husky",
+    "eslint",
+    "prettier"
   ]
 }
