@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/barebones-react-webpack-babel-eslint-prettier-husky-project">
-    <img src="https://img.shields.io/badge/npm-v1.0.3-red" alt="version" />
+    <img src="https://img.shields.io/badge/npm-v1.1.0-red" alt="version" />
   </a>
 </p>
 
