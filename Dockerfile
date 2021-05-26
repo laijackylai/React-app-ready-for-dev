@@ -1,5 +1,5 @@
 FROM node:latest
 
-WORKDIR /hk3dtiles
+WORKDIR /barebonesReact
 
 CMD tail -f /dev/null
